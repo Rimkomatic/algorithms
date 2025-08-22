@@ -1,0 +1,23 @@
+a.out
+*.o
+*.out
+*.obj
+*.exe
+*.bin
+
+core
+
+*~
+*.swp
+
+/build/
+/dist/
+/Debug/
+/Release/
+
+*.log
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+*.bak
